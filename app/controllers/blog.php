@@ -1,5 +1,0 @@
-<?php
-
-loadView('blog/blog');
-
-?>
