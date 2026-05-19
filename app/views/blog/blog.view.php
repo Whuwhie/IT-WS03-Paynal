@@ -76,7 +76,7 @@ $body_end4 = "And that, I believe, is the soul’s true nourishment—not just m
                     Kanibalismo
                 </p>
                 <p class="text-sm italic mb-2 ml-10">by fiterkarma</p>
-                <img src="/assets/Kanibalismo.png" alt="Kanibalismo"
+                <img src="/images/Kanibalismo.png" alt="Kanibalismo"
                      class="max-w-lg w-full mx-auto shadow-md">
             </div>
 
@@ -85,7 +85,7 @@ $body_end4 = "And that, I believe, is the soul’s true nourishment—not just m
                     The Sadness
                 </p>
                 <p class="text-sm italic mb-2 ml-10">directed by Rob Jabbaz</p>
-                <img src="/assets/The Sadness.png" alt="The Sadness"
+                 <img src="/images/The Sadness.png" alt="The Sadness"
                      class="max-w-lg w-full mx-auto ml-10 shadow-md">
             </div>
 
@@ -94,7 +94,7 @@ $body_end4 = "And that, I believe, is the soul’s true nourishment—not just m
                     Dadiz Home
                 </p>
                 <p class="text-sm italic mb-2 ml-10">home for me~</p>
-                <img src="/assets/Dadiz Home.png" alt="Dadiz Home"
+                 <img src="/images/Dadiz Home.png" alt="Dadiz Home"
                      class="max-w-lg w-full mx-auto ml-10 shadow-md">
             </div>
 
@@ -103,7 +103,7 @@ $body_end4 = "And that, I believe, is the soul’s true nourishment—not just m
                     Dinuguan
                 </p>
                 <p class="text-sm italic mb-2 ml-10">ni Papa</p>
-                <img src="/assets/Dinuguan.png" alt="Dinuguan"
+                 <img src="/images/Dinuguan.png" alt="Dinuguan"
                      class="max-w-lg w-full mx-auto ml-10 shadow-md">
             </div>
 
