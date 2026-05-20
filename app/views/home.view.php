@@ -14,7 +14,7 @@
                 <h2 class="text-xl font-bold tracking-tight text-slate-900">Recent openings</h2>
                 <p class="mt-1 text-sm text-slate-500">Newly posted roles on SkillSync</p>
             </div>
-            <a href="/listings" class="inline-flex items-center gap-2 text-sm font-medium text-brand-700 hover:text-brand-800">
+            <a href="/listings" class="inline-flex items-center gap-2 rounded-2xl px-4 py-2 text-sm font-semibold text-brand-700 transition hover:text-brand-800">
                 View all jobs <i class="fa fa-arrow-right text-xs" aria-hidden="true"></i>
             </a>
         </header>
