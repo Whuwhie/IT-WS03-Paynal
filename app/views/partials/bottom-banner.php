@@ -1,4 +1,4 @@
-<section class="mx-auto max-w-6xl px-4 pb-8">
+<section class="mx-auto max-w-7xl px-3 pb-8">
     <div class="flex flex-col gap-4 rounded-xl border border-slate-200 bg-white p-5 sm:flex-row sm:items-center sm:justify-between sm:p-6">
         <div class="max-w-lg">
             <p class="text-xs font-semibold uppercase tracking-wider text-brand-700">For employers</p>

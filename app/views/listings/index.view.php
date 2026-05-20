@@ -8,7 +8,7 @@
 ?>
 
 <main class="flex-1 py-8">
-    <div class="mx-auto max-w-6xl px-4">
+    <div class="mx-auto max-w-7xl px-3">
         <header class="mb-6">
             <p class="text-xs font-semibold uppercase tracking-wider text-brand-700">Browse</p>
             <h1 class="text-2xl font-bold tracking-tight text-slate-900">Job listings</h1>

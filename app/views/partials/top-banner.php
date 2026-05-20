@@ -1,5 +1,5 @@
 <section class="border-b border-slate-200 bg-white" aria-label="Trust highlights">
-    <div class="mx-auto grid max-w-6xl gap-4 px-4 py-4 sm:grid-cols-3 sm:gap-6 sm:py-5">
+    <div class="mx-auto grid max-w-7xl gap-4 px-3 py-4 sm:grid-cols-3 sm:gap-6 sm:py-5">
         <div class="flex items-start gap-3">
             <span class="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-brand-50 text-brand-700">
                 <i class="fa fa-briefcase text-sm" aria-hidden="true"></i>

@@ -2,7 +2,7 @@
 <?= loadPartial("navbar"); ?>
 
 <main class="flex-1 py-8">
-    <div class="mx-auto max-w-6xl px-4">
+    <div class="mx-auto max-w-7xl px-3">
         <a href="/listings" class="mb-6 inline-flex items-center gap-2 text-sm font-medium text-slate-600 hover:text-brand-700">
             <i class="fa fa-arrow-left text-xs" aria-hidden="true"></i> Back to listings
         </a>

@@ -1,7 +1,7 @@
 <section class="relative overflow-hidden border-b border-slate-800 showcase-bg bg-cover bg-center bg-no-repeat">
     <div class="absolute inset-0 bg-slate-900/75" style="background-color: var(--showcase-overlay, rgba(15, 23, 42, 0.75));"></div>
 
-    <div class="relative mx-auto grid max-w-6xl gap-8 px-4 py-10 place-items-center lg:py-14">
+    <div class="relative mx-auto grid max-w-7xl gap-8 px-3 py-10 place-items-center lg:py-14">
         <div class="w-full max-w-xl rounded-3xl border border-white/10 bg-white/95 p-6 shadow-2xl shadow-slate-900/10 transition duration-300 sm:p-8">
             <div class="grid gap-3 sm:grid-cols-[minmax(0,1fr)_220px] sm:items-start sm:gap-4">
                 <div>

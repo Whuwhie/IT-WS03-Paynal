@@ -7,7 +7,7 @@
 <?= loadPartial("top-banner"); ?>
 
 <main class="flex-1 py-8">
-    <div class="mx-auto max-w-6xl px-4">
+    <div class="mx-auto max-w-7xl px-3">
         <header class="mb-6 flex flex-col gap-2 border-b border-slate-200 pb-4 sm:flex-row sm:items-end sm:justify-between">
             <div>
                 <p class="text-xs font-semibold uppercase tracking-wider text-brand-700">Latest</p>
