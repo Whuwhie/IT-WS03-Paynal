@@ -2,13 +2,22 @@
 
 <?= loadPartial("navbar"); ?>
 
-<main class="flex flex-1 items-start justify-center px-4 py-10">
-	<div class="w-full max-w-md rounded-xl border border-slate-200 bg-white p-6 shadow-sm sm:p-8">
-		<header class="text-center">
-			<p class="text-xs font-semibold uppercase tracking-wider text-brand-700">Account</p>
-			<h1 class="mt-1 text-xl font-bold text-slate-900">Create account</h1>
-			<p class="mt-1 text-sm text-slate-500">Join SkillSync to manage listings</p>
-		</header>
+<main class="flex min-h-[calc(100vh-13rem)] items-center justify-center px-4 py-4">
+	<div class="w-full max-w-3xl rounded-3xl border border-slate-200 bg-white shadow-xl">
+		<div class="grid gap-6 lg:grid-cols-[1fr_1.1fr]">
+			<div class="hidden rounded-l-3xl bg-brand-700 p-8 text-white lg:block">
+				<div class="max-w-sm">
+					<p class="text-xs font-semibold uppercase tracking-wider text-brand-200">New to SkillSync?</p>
+					<h1 class="mt-4 text-3xl font-bold tracking-tight">Create your account</h1>
+					<p class="mt-4 text-sm leading-6 text-brand-100">Post jobs, manage applicants, and find the right talent all in one place.</p>
+				</div>
+			</div>
+			<div class="rounded-3xl bg-white p-6 sm:p-8">
+				<header class="text-center lg:text-left">
+					<p class="text-xs font-semibold uppercase tracking-wider text-brand-700">Account</p>
+					<h1 class="mt-2 text-2xl font-bold text-slate-900">Create account</h1>
+					<p class="mt-2 text-sm text-slate-500">Join SkillSync to manage listings</p>
+				</header>
 
 		<?php if (isset($errors) && count($errors)): ?>
 			<div class="mt-4 rounded-md border border-red-200 bg-red-50 px-4 py-3 text-sm text-red-800" role="alert">
@@ -57,7 +66,8 @@
 				Already have an account? <a href="/auth/login" class="font-medium text-brand-700 hover:text-brand-800">Sign in</a>
 			</p>
 		</form>
-	</div>
+		</div>	</div>
+</div>
 </main>
 
 <?= loadPartial("footer"); ?>
